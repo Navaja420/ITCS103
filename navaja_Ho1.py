@@ -31,3 +31,4 @@ print("The average of the numbers is", average)
 
 
 compare_length_and_average(length, average, word)
+
