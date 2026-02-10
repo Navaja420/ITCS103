@@ -24,18 +24,14 @@ label.pack(pady=20, padx=20, anchor="w")
 
 
 # label = tk.Label(window, text=f"""
-#                  Twinkle, twinkle, little star, 
-#                  how I wonder what you are. 
-#                  Up above the world so high,
-#                  like a diamond in the sky. 
-#                  Twinkle, twinkle, little star,
-#                  how I wonder what you are.
-#                  When the blazing sun is set, 
-#                  and the grass with dew is wet.
-#                  Then you show your little
-#                  light, twinkle, twinkle all the night. 
-#                  Twinkle, twinkle little star, 
-#                  how I wonder what you are.
 # """, font=("Arial", 24), bg="gray",fg="red", justify= "left")
 # label.pack(anchor="center")
+
 window.mainloop()
+
+
+
+
+
+
+
