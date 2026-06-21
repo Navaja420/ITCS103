@@ -15,7 +15,7 @@ class LibraryManagementSystem:
         self.root.configure(bg="brown")
         
         # Excel file name
-        self.excel_file = "Borela_Database.xlsx"
+        self.excel_file = "Navaja_Database.xlsx"
         
         # Create excel file if not exist
         self.create_excel_file()
